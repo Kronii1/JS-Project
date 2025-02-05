@@ -1,9 +1,12 @@
 const a = 6;
 const b = 3;
 
-const myName = "Kronii";
+let myName = "Kronii";
 
 console.log(a + b);
 console.log(a * b);
 console.log(a / b);
 console.log("hello " + myName);
+
+myName = "Ouro Kronii";
+console.log("Change Name = ", myName);
