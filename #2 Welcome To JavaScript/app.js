@@ -1,12 +1,8 @@
-const a = 6;
-const b = 3;
+const amICute = true;
+console.log(amICute);
 
-let myName = "Kronii";
+let amIFat = null;
+console.log(amIFat);
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log("hello " + myName);
-
-myName = "Ouro Kronii";
-console.log("Change Name = ", myName);
+let something;
+console.log(something);
