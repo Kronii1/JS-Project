@@ -1,0 +1,12 @@
+Variable
+값을 저장하거나 유지하는 역할을 한다.
+
+constant(const)
+바뀌지 않은 값이라는 뜻이다. 값이 변하지않고 계속 유지된다.
+
+VeryLongVariableName 처럼 맨 처음 글자를 대문자로 만들어 주는 건 Pascal Case 라고 한다.
+
+강의에서 가르쳐주신 Camel Case 는 맨 앞글자가 소문자로 시작한다. 
+마치 낙타의 혹이 중간에 있듯이 띄어쓰기가 필요한 중간글자를 대문자로 만들어 주는걸 Camel Case 라고 한다.
+
+예시는 veryLongVariableName 라고 선언 할 수 있다.
