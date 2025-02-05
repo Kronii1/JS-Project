@@ -1,9 +1,0 @@
-Variable 만드는 법 2가지
-const & let
-
-const & let 차이점
-const는 constant(상수)라는 것이고,
-constant는 값이 바뀔 수 없다. 즉 값이 업데이트 되지 않는다.
-
-let은
-값이 업데이트가 가능하며, 변경될 수 있다.
