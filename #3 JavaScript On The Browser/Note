@@ -1,6 +1,0 @@
-class 를 가져오는 방법
-document.getElementByClassName
-
-querySelector
-element를 CSS방식으로 검색할 수 있다.
-ex => const title = document.querySelector(".hello h1")
