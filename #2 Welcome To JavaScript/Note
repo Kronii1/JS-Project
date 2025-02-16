@@ -8,3 +8,6 @@ function은
 argument
 function을 실행하는 동안 어떤 정보를 Function에게 보낼 수 있는 방법이다.
 
+
+함수가 데이터를 받고 싶으면
+()안에 넣어줘야한다.
